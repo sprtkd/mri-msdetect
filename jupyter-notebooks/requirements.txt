@@ -1,0 +1,14 @@
+nibabel
+matplotlib
+numpy
+tensorflow
+keras
+gputil
+psutil
+humanize
+csv
+scikit-fuzzy
+scikit-learn
+scipy
+statsmodels
+git+git://github.com/jcreinhold/intensity-normalization.git
