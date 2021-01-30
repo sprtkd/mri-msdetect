@@ -7,9 +7,13 @@ This project was done as a B.Tech Final Project under Prof. Arindam Biswas, IT D
 * Suprotik Dey
 * Mimat Khalil Kasu
 
-This project was run on Google Colab, leveraging its GPU acceleration
+# Requirements:
+* This project is based on 3D autoencoder architecture, thus it needs serious hardware acceleration.
+* This project was run on Google Colab, leveraging its GPU acceleration
+* Requirements present in requirements.txt
 
-Open notebooks in https://nbviewer.jupyter.org/ online to view
+# Dataset
+Dataset is available at [Laboratory of Imaging Technologies](http://lit.fe.uni-lj.si/tools.php?lang=eng "lit.fe.uni-lj.si") under CC-BY License
 
 # Notebooks
 https://nbviewer.jupyter.org/github/sprtkd/mri-msdetect/blob/main/jupyter-notebooks/Mri_Autoencoder.ipynb
